@@ -6,3 +6,7 @@ This is my first header.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## Add task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
